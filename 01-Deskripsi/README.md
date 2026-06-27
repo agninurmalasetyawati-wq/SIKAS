@@ -1,5 +1,12 @@
 # Deskripsi Project
+SIKAS (Sistem Informasi Kas Mahasiswa) adalah aplikasi berbasis Command Line Interface (CLI) yang dikembangkan menggunakan bahasa pemrograman Go (Golang) untuk membantu pengelolaan administrasi kas mahasiswa. Program ini dirancang agar proses pencatatan data mahasiswa dan pembayaran kas dapat dilakukan secara lebih terstruktur, cepat, dan mudah.
 
-SIKAS (Sistem Informasi Kas Mahasiswa) adalah aplikasi berbasis Command Line Interface (CLI) yang dikembangkan menggunakan bahasa pemrograman Go (Golang). Program ini dibuat untuk membantu pengelolaan administrasi kas mahasiswa secara lebih terstruktur, mulai dari pencatatan data mahasiswa hingga pengelolaan pembayaran kas.
-Melalui SIKAS, pengguna dapat menambahkan data mahasiswa, mengubah informasi yang sudah ada, menghapus data, mencatat pembayaran kas, melihat daftar mahasiswa beserta status pembayarannya, serta menampilkan riwayat transaksi pembayaran. Dengan adanya fitur-fitur tersebut, proses pengelolaan kas menjadi lebih mudah, cepat, dan mengurangi risiko kesalahan pencatatan yang sering terjadi pada sistem manual.
-Program ini juga menerapkan beberapa konsep dasar pemrograman, seperti array, struct, function, percabangan (if/switch), perulangan (for), serta algoritma Sequential Search untuk pencarian data dan Selection Sort untuk pengurutan data. Oleh karena itu, selain berfungsi sebagai aplikasi pengelolaan kas, SIKAS juga menjadi implementasi dari materi dasar algoritma dan pemrograman dalam bahasa Go.
+Melalui aplikasi SIKAS, pengguna dapat mengelola data mahasiswa, mencatat pembayaran kas, melihat status pembayaran setiap mahasiswa, serta menampilkan riwayat transaksi. Dengan adanya sistem ini, proses pengelolaan kas yang sebelumnya dilakukan secara manual menjadi lebih efisien dan mengurangi risiko kesalahan dalam pencatatan data.
+
+# Tujuan
+Pembuatan aplikasi SIKAS bertujuan untuk:
+-Mempermudah proses pengelolaan data mahasiswa yang mengikuti kas.
+-Mencatat setiap transaksi pembayaran kas secara terstruktur.
+-Menyediakan informasi mengenai status pembayaran setiap mahasiswa.
+-Menampilkan riwayat transaksi sebagai dokumentasi pembayaran kas.
+-Menerapkan konsep dasar algoritma dan pemrograman menggunakan bahasa Go, seperti array, struct, function, percabangan, perulangan, serta algoritma Sequential Search dan Selection Sort.
