@@ -1,5 +1,4 @@
+#Kesimpulan Project
 Program SIKAS (Sistem Informasi Kas Mahasiswa) merupakan aplikasi berbasis Command Line Interface (CLI) yang dikembangkan menggunakan bahasa pemrograman Go (Golang) untuk membantu pengelolaan kas mahasiswa secara lebih terstruktur. Aplikasi ini menyediakan berbagai fitur, seperti menambah, mengubah, dan menghapus data mahasiswa, mencatat pembayaran kas, menampilkan data dan riwayat transaksi, melakukan pencarian data, mengurutkan data, serta menampilkan statistik kas.
-
 Dalam pengembangannya, program ini menerapkan konsep dasar pemrograman seperti struct, array, function, percabangan, perulangan, serta memanfaatkan algoritma Sequential Search, Binary Search, Selection Sort, dan Insertion Sort. Penerapan konsep dan algoritma tersebut membuat proses pengelolaan data menjadi lebih sistematis dan mudah dipahami.
-
 Meskipun masih berbasis CLI dan menggunakan penyimpanan data sementara (array), program ini telah memenuhi tujuan utama sebagai media pembelajaran implementasi algoritma dan pemrograman. Ke depannya, aplikasi SIKAS dapat dikembangkan lebih lanjut dengan menambahkan antarmuka grafis (GUI), menggunakan database sebagai media penyimpanan permanen, serta menambahkan fitur-fitur lain agar lebih sesuai untuk digunakan dalam pengelolaan kas mahasiswa di lingkungan nyata.
