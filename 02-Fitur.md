@@ -1,7 +1,7 @@
 # 1. Tambah Mahasiswa
 Fitur Tambah Mahasiswa digunakan untuk memasukkan data mahasiswa baru ke dalam sistem. Pengguna diminta mengisi informasi seperti NIM dan nama mahasiswa. Setelah data dimasukkan, sistem akan menyimpannya ke dalam daftar mahasiswa sehingga dapat digunakan pada proses pembayaran kas maupun pengelolaan data selanjutnya.
 
-'''go
+```go
 func tambahMahasiswa() {
 	fmt.Print("Masukkan NIM : ")
 	fmt.Scan(&data[n].NIM)
