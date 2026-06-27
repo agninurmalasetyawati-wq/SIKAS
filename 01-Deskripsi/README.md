@@ -5,8 +5,8 @@ Melalui aplikasi SIKAS, pengguna dapat mengelola data mahasiswa, mencatat pembay
 
 # Tujuan
 Pembuatan aplikasi SIKAS bertujuan untuk:
--Mempermudah proses pengelolaan data mahasiswa yang mengikuti kas.
--Mencatat setiap transaksi pembayaran kas secara terstruktur.
--Menyediakan informasi mengenai status pembayaran setiap mahasiswa.
--Menampilkan riwayat transaksi sebagai dokumentasi pembayaran kas.
--Menerapkan konsep dasar algoritma dan pemrograman menggunakan bahasa Go, seperti array, struct, function, percabangan, perulangan, serta algoritma Sequential Search dan Selection Sort.
+1. Mempermudah proses pengelolaan data mahasiswa yang mengikuti kas.
+2. Mencatat setiap transaksi pembayaran kas secara terstruktur.
+3. Menyediakan informasi mengenai status pembayaran setiap mahasiswa.
+4. Menampilkan riwayat transaksi sebagai dokumentasi pembayaran kas.
+5. Menerapkan konsep dasar algoritma dan pemrograman menggunakan bahasa Go, seperti array, struct, function, percabangan, perulangan, serta algoritma Sequential Search dan Selection Sort.
