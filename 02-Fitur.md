@@ -1,5 +1,23 @@
 # 1. Tambah Mahasiswa
 Fitur Tambah Mahasiswa digunakan untuk memasukkan data mahasiswa baru ke dalam sistem. Pengguna diminta mengisi informasi seperti NIM dan nama mahasiswa. Setelah data dimasukkan, sistem akan menyimpannya ke dalam daftar mahasiswa sehingga dapat digunakan pada proses pembayaran kas maupun pengelolaan data selanjutnya.
+'''go
+func tambahMahasiswa() {
+	fmt.Print("Masukkan NIM : ")
+	fmt.Scan(&data[n].NIM)
+
+	fmt.Print("Masukkan Nama : ")
+	fmt.Scan(&data[n].Nama)
+
+	data[n].NominalBayar = 0
+	data[n].TanggalBayar = "-"
+	data[n].Tunggakan = IURAN * JUMLAH_BULAN
+	data[n].Status = "Belum Lunas"
+
+	n++
+
+	fmt.Println("Data berhasil ditambah")
+}
+
 
 # 2. Ubah Mahasiswa
 Fitur Ubah Mahasiswa berfungsi untuk memperbarui informasi mahasiswa yang telah tersimpan. Pengguna cukup memasukkan NIM mahasiswa yang ingin diubah, kemudian sistem akan menampilkan data yang bersangkutan sehingga informasi seperti nama dapat diperbarui sesuai kebutuhan.
